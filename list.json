@@ -1,0 +1,20 @@
+[
+  {
+    "keywords": [],
+    "id": "idapkg",
+    "name": "idapkg",
+    "version": "0.1.4",
+    "description": "idapkg Core package",
+    "author": "jinmo123"
+  },
+  {
+    "keywords": [
+      "plugins"
+    ],
+    "id": "ifred",
+    "name": "ifred",
+    "version": "1.0.5",
+    "description": "Command Palette for IDA Pro",
+    "author": "jinmo123"
+  }
+]

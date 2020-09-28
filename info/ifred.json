@@ -1,0 +1,9 @@
+{
+  "_id": "ifred",
+  "version": "1.0.5",
+  "name": "ifred",
+  "description": "Command Palette for IDA Pro",
+  "installers": [
+    "installer.py"
+  ]
+}
